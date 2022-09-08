@@ -1,13 +1,4 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "clientes": [
     {
       "nombre": "tito",
@@ -23,5 +14,8 @@
       "empresa": "YOU TUBE",
       "id": 3
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
