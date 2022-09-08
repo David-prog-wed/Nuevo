@@ -7,5 +7,21 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "clientes": [
+    {
+      "nombre": "tito",
+      "email": "tito@gmail.com",
+      "telefono": "3153801021",
+      "empresa": "Nieves",
+      "id": 2
+    },
+    {
+      "nombre": "Oscar",
+      "email": "oscar@gmail.com",
+      "telefono": "3258954512",
+      "empresa": "YOU TUBE",
+      "id": 3
+    }
+  ]
 }
